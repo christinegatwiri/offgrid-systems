@@ -294,6 +294,19 @@
     }
 }
 
+/* Partners */
+.partner-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.partner-item {
+    margin: 0 15px;
+    width: 250px;
+    height: 150px;
+    margin-bottom: 20px;
+}
 
 /*** Project Portfolio ***/
 #portfolio-flters li {
